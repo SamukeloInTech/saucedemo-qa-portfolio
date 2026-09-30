@@ -1,4 +1,4 @@
-# SauceDemo QA Portfolio — [SAMUKELO CELE]
+# SauceDemo QA Portfolio — SAMUKELO CELE
 
 ## 📌 Project Overview
 Manual testing portfolio for the SauceDemo e-commerce demo site. This project covers the full QA lifecycle: test planning, test case design, defect reporting in Jira, and regression testing.
